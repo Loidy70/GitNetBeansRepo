@@ -16,7 +16,7 @@ public class GitAssignmentProject {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("MAIN branch version updated");
+        System.out.println("MAIN and CONFLIC branch version updated");
     }
     
 }
