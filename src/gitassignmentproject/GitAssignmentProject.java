@@ -14,7 +14,7 @@ public class GitAssignmentProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Main branch version");
+        System.out.println("Conflict branch version");
     }
     
 }
