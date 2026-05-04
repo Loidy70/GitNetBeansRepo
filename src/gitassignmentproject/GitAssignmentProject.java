@@ -14,7 +14,9 @@ public class GitAssignmentProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Version from master changed");
+
+        System.out.println("Resolved version after conflict");
+
     }
     
 }
